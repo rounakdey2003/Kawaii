@@ -186,6 +186,12 @@ The easiest way to deploy is using [Vercel](https://vercel.com/):
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## 👨‍💻 Developer
+
+**Rounak Dey**
+- Web Developer & Designer
+- GitHub: [@rounakdey2003](https://github.com/rounakdey2003)
+
 ## 🙏 Acknowledgments
 
 - [NextUI](https://nextui.org/) for the beautiful component library
@@ -197,5 +203,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
   <p>Made with 💖 and kawaii vibes</p>
-  <p>✨ Happy coding! ✨</p>
 </div>
