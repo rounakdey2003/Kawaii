@@ -1,21 +1,21 @@
-# Kawaii 🌸
+# Kawaii
 
 
 A modern, kawaii-themed Next.js application built with beautiful UI components and smooth animations. This project showcases a gallery-style interface with various categories including anime, cartoons, paintings, and more.
 
-## ✨ Features
+## Features
 
-- 🎨 **Beautiful UI** - Built with NextUI and HeroUI components
-- 🌙 **Dark/Light Mode** - Theme switching with next-themes
-- 📱 **Responsive Design** - Mobile-first approach with Tailwind CSS
-- 🎭 **Kawaii Theme** - Cute and colorful design aesthetic
-- 🖼️ **Image Gallery** - Organized categories for different content types
-- ⚡ **Performance** - Built with Next.js 15 and Turbo mode
-- 🎬 **Smooth Animations** - Powered by Framer Motion
-- 🔍 **Search Functionality** - Browse through different categories
-- 💎 **Modern Stack** - TypeScript, React 18, and latest dependencies
+- **Beautiful UI** - Built with NextUI and HeroUI components
+- **Dark/Light Mode** - Theme switching with next-themes
+- **Responsive Design** - Mobile-first approach with Tailwind CSS
+- **Kawaii Theme** - Cute and colorful design aesthetic
+- **Image Gallery** - Organized categories for different content types
+- **Performance** - Built with Next.js 15 and Turbo mode
+- **Smooth Animations** - Powered by Framer Motion
+- **Search Functionality** - Browse through different categories
+- **Modern Stack** - TypeScript, React 18, and latest dependencies
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js 15.2.2
 - **Language**: TypeScript
@@ -26,7 +26,7 @@ A modern, kawaii-themed Next.js application built with beautiful UI components a
 - **Icons**: Custom icon components
 - **Development**: ESLint, Prettier
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -63,7 +63,7 @@ A modern, kawaii-themed Next.js application built with beautiful UI components a
    
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Script | Description |
 |--------|-------------|
@@ -72,7 +72,7 @@ A modern, kawaii-themed Next.js application built with beautiful UI components a
 | `npm run start` | Start the production server |
 | `npm run lint` | Run ESLint with auto-fix |
 
-## 🎨 Project Structure
+## Project Structure
 
 ```
 ├── app/                    # App Router directory
@@ -96,7 +96,7 @@ A modern, kawaii-themed Next.js application built with beautiful UI components a
 └── public/              # Static assets
 ```
 
-## 🎭 Features Overview
+## Features Overview
 
 ### Categories Available
 - **Kawaii** - Cute and adorable content
@@ -115,7 +115,7 @@ A modern, kawaii-themed Next.js application built with beautiful UI components a
 - Theme switching (dark/light mode)
 - Smooth animations and transitions
 
-## 🔧 Configuration
+## Configuration
 
 ### Site Configuration
 The site configuration can be found in `config/site.ts`:
@@ -131,7 +131,7 @@ export const siteConfig = {
 ### Theme Configuration
 Tailwind CSS configuration is in `tailwind.config.js` with NextUI theme integration.
 
-## 🎨 Customization
+## Customization
 
 ### Adding New Categories
 1. Add new category data in `components/data.tsx`
@@ -143,7 +143,7 @@ Tailwind CSS configuration is in `tailwind.config.js` with NextUI theme integrat
 - Update `styles/globals.css` for global styles
 - Use NextUI's theming system for component customization
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is fully responsive with:
 - Mobile-first approach
@@ -151,7 +151,7 @@ The application is fully responsive with:
 - Touch-friendly interfaces
 - Optimized images and loading
 
-## 🌟 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -159,11 +159,11 @@ The application is fully responsive with:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [NextUI](https://nextui.org/) for the beautiful UI components
 - [HeroUI](https://heroui.com/) for additional UI elements
